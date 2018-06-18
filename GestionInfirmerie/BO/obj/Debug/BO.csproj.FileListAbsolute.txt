@@ -1,0 +1,77 @@
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BO\bin\Debug\BO.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BO\bin\Debug\BO.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BO\obj\Debug\BO.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\bin\Debug\BO.dll
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\bin\Debug\BO.pdb
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.dll
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\BO\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\BO\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\BO\obj\Debug\BO.dll
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\BO\bin\Debug\BO.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\BO\bin\Debug\BO.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\BO\obj\Debug\BO.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+F:\GestionInfirmerie\BO\bin\Debug\BO.dll
+F:\GestionInfirmerie\BO\bin\Debug\BO.pdb
+F:\GestionInfirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+F:\GestionInfirmerie\BO\obj\Debug\BO.dll
+F:\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\BO\bin\Debug\BO.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\BO\bin\Debug\BO.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\BO\obj\Debug\BO.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\BO\obj\Debug\BO.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\BO\bin\Debug\BO.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\BO\bin\Debug\BO.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\BO\obj\Debug\BO.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\BO\obj\Debug\BO.pdb
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\BO\bin\Debug\BO.dll
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\BO\bin\Debug\BO.pdb
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\BO\obj\Debug\BO.dll
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\BO\obj\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\BO\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\BO\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\BO\obj\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\BO\obj\Debug\BO.pdb
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\bin\Debug\BO.dll
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\bin\Debug\BO.pdb
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.dll
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\BO\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\BO\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\BO\obj\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\BO\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\BO\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\BO\obj\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\BO\obj\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\BO\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\BO\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\BO\obj\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\BO\obj\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.pdb
+F:\ppe\gestion_infirmerie_v3\GestionInfirmerie\BO\bin\Debug\BO.dll
+F:\ppe\gestion_infirmerie_v3\GestionInfirmerie\BO\bin\Debug\BO.pdb
+F:\ppe\gestion_infirmerie_v3\GestionInfirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+F:\ppe\gestion_infirmerie_v3\GestionInfirmerie\BO\obj\Debug\BO.dll
+F:\ppe\gestion_infirmerie_v3\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\BO\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\BO\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\BO\obj\Debug\BO.dll
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
