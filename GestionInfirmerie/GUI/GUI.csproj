@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9C270E60-0ECF-4937-9C54-A24137D0E06A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>61n7R1YN8tL_SL1476_.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ajoutClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ajoutClasses.Designer.cs">
+      <DependentUpon>ajoutClasses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ajoutEleves.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ajoutEleves.Designer.cs">
+      <DependentUpon>ajoutEleves.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ajoutMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ajoutMedicament.Designer.cs">
+      <DependentUpon>ajoutMedicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ajoutVisite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ajoutVisite.Designer.cs">
+      <DependentUpon>ajoutVisite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gestClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gestClasses.Designer.cs">
+      <DependentUpon>gestClasses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gestion_infirmerieDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestion_infirmerieDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestion_infirmerieDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestion_infirmerieDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestion_infirmerieDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestion_infirmerieDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ListeEleve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListeEleve.Designer.cs">
+      <DependentUpon>ListeEleve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="listeMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listeMedicament.Designer.cs">
+      <DependentUpon>listeMedicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="listeVisite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listeVisite.Designer.cs">
+      <DependentUpon>listeVisite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modifClasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modifClasse.Designer.cs">
+      <DependentUpon>modifClasse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modifEleve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modifEleve.Designer.cs">
+      <DependentUpon>modifEleve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modifMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modifMedicament.Designer.cs">
+      <DependentUpon>modifMedicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gestionEleve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gestionEleve.Designer.cs">
+      <DependentUpon>gestionEleve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gestion_infirmerieDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestion_infirmerieDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modifVisite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modifVisite.Designer.cs">
+      <DependentUpon>modifVisite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SauvegardeBDD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SauvegardeBDD.Designer.cs">
+      <DependentUpon>SauvegardeBDD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Synthese.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Synthese.Designer.cs">
+      <DependentUpon>Synthese.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ajoutClasses.resx">
+      <DependentUpon>ajoutClasses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ajoutEleves.resx">
+      <DependentUpon>ajoutEleves.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ajoutMedicament.resx">
+      <DependentUpon>ajoutMedicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ajoutVisite.resx">
+      <DependentUpon>ajoutVisite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gestClasses.resx">
+      <DependentUpon>gestClasses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListeEleve.resx">
+      <DependentUpon>ListeEleve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listeMedicament.resx">
+      <DependentUpon>listeMedicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listeVisite.resx">
+      <DependentUpon>listeVisite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifClasse.resx">
+      <DependentUpon>modifClasse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifEleve.resx">
+      <DependentUpon>modifEleve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifMedicament.resx">
+      <DependentUpon>modifMedicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gestionEleve.resx">
+      <DependentUpon>gestionEleve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifVisite.resx">
+      <DependentUpon>modifVisite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SauvegardeBDD.resx">
+      <DependentUpon>SauvegardeBDD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Synthese.resx">
+      <DependentUpon>Synthese.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestion_infirmerieDataSet.xsc">
+      <DependentUpon>gestion_infirmerieDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="gestion_infirmerieDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestion_infirmerieDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestion_infirmerieDataSet.xss">
+      <DependentUpon>gestion_infirmerieDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="gestion_infirmerieDataSet1.xsc">
+      <DependentUpon>gestion_infirmerieDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="gestion_infirmerieDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestion_infirmerieDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestion_infirmerieDataSet1.xss">
+      <DependentUpon>gestion_infirmerieDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="gestion_infirmerieDataSet2.xsc">
+      <DependentUpon>gestion_infirmerieDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="gestion_infirmerieDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestion_infirmerieDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestion_infirmerieDataSet2.xss">
+      <DependentUpon>gestion_infirmerieDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="gestion_infirmerieDataSet3.xsc">
+      <DependentUpon>gestion_infirmerieDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="gestion_infirmerieDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestion_infirmerieDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestion_infirmerieDataSet3.xss">
+      <DependentUpon>gestion_infirmerieDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{8ea90f3b-04a3-4707-a1bc-b508ee190fb9}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BO\BO.csproj">
+      <Project>{f516128f-2324-4bf6-af22-39cf34aea987}</Project>
+      <Name>BO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{9B862DD3-7FC3-45F6-BEC1-9F1712CC96EE}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="61n7R1YN8tL_SL1476_.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
