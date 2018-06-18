@@ -1,0 +1,426 @@
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login_frm.resources
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\GUI.exe
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\GUI.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\BLL.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\BO.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\DAL.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\BLL.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\BO.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\DAL.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestionEleve_frm.resources
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutEleve_frm.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\bin\Debug\GUI.exe
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\bin\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\bin\Debug\BLL.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\bin\Debug\DAL.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\bin\Debug\BLL.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\bin\Debug\DAL.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\GUI.exe
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\GUI.pdb
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\BLL.dll
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\BO.dll
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\DAL.dll
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\BLL.pdb
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\BO.pdb
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\DAL.pdb
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutEleve_frm.resources
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.FormModifEleve.resources
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestionEleve_frm.resources
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login_frm.resources
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\etudiant-bts\Desktop\maj infirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutEleve_frm.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.FormModifEleve.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestionEleve_frm.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login_frm.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\bin\Debug\GUI.exe
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\bin\Debug\GUI.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\bin\Debug\BLL.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\bin\Debug\BO.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\bin\Debug\DAL.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\bin\Debug\BLL.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\bin\Debug\BO.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie\GUI\bin\Debug\DAL.pdb
+F:\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+F:\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+F:\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+F:\GestionInfirmerie\GUI\bin\Debug\GUI.exe
+F:\GestionInfirmerie\GUI\bin\Debug\GUI.pdb
+F:\GestionInfirmerie\GUI\bin\Debug\BLL.dll
+F:\GestionInfirmerie\GUI\bin\Debug\BO.dll
+F:\GestionInfirmerie\GUI\bin\Debug\DAL.dll
+F:\GestionInfirmerie\GUI\bin\Debug\BLL.pdb
+F:\GestionInfirmerie\GUI\bin\Debug\BO.pdb
+F:\GestionInfirmerie\GUI\bin\Debug\DAL.pdb
+F:\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutEleve_frm.resources
+F:\GestionInfirmerie\GUI\obj\x86\Debug\GUI.FormModifEleve.resources
+F:\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestionEleve_frm.resources
+F:\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login_frm.resources
+F:\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Main.resources
+F:\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+F:\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+F:\GestionInfirmerie\GUI\obj\x86\Debug\GUI.FormModifMedicament.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\bin\Debug\GUI.exe
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\bin\Debug\GUI.pdb
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\bin\Debug\BLL.dll
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\bin\Debug\BO.dll
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\bin\Debug\DAL.dll
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\bin\Debug\BLL.pdb
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\bin\Debug\BO.pdb
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\bin\Debug\DAL.pdb
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutEleve_frm.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.FormModifEleve.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.FormModifMedicament.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestionEleve_frm.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login_frm.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+F:\GestionInfirmerie_sqlParam\GUI\bin\Debug\GUI.exe.config
+F:\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.exe
+F:\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\bin\Debug\GUI.exe.config
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\bin\Debug\GUI.exe
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\bin\Debug\GUI.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\bin\Debug\BLL.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\bin\Debug\BO.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\bin\Debug\DAL.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\bin\Debug\BLL.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\bin\Debug\BO.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\bin\Debug\DAL.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.ajoutEleve_frm.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.FormModifEleve.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.FormModifMedicament.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.gestionEleve_frm.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.Login_frm.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\GUI.exe.config
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\GUI.exe
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\GUI.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\BLL.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\BO.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\DAL.dll
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\BLL.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\BO.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\DAL.pdb
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.ajoutEleve_frm.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.FormModifEleve.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.FormModifMedicament.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.gestionEleve_frm.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.Login_frm.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\Public\Documents\c_sharp\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\GUI.exe.config
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\GUI.exe
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\GUI.pdb
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\BLL.dll
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\BO.dll
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\DAL.dll
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\BLL.pdb
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\BO.pdb
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\DAL.pdb
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\bin\Debug\DAL.dll.config
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.ajoutEleves.resources
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.modifEleve.resources
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.modifMedicament.resources
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.gestionEleve.resources
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.Login.resources
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Omen\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sqlParam_VM\GUI\obj\x86\Debug\GUI.ajoutMedicament.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\bin\Debug\GUI.exe.config
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\obj\x86\Debug\GUI.exe
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\bin\Debug\GUI.exe
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\bin\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\bin\Debug\BLL.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\bin\Debug\DAL.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\bin\Debug\BLL.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\bin\Debug\DAL.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\obj\x86\Debug\GUI.ajoutEleves.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\obj\x86\Debug\GUI.ajoutMedicament.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\obj\x86\Debug\GUI.modifEleve.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\obj\x86\Debug\GUI.modifMedicament.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\obj\x86\Debug\GUI.gestionEleve.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\obj\x86\Debug\GUI.Login.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie_sprint2\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\GUI.exe
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\GUI.pdb
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\BLL.dll
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\BO.dll
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\DAL.dll
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\BLL.pdb
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\BO.pdb
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\DAL.pdb
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutEleves.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutMedicament.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifEleve.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifMedicament.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestionEleve.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\UTILISATEUR\Documents\ppe_c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutEleves.resources
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutMedicament.resources
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifEleve.resources
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifMedicament.resources
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestionEleve.resources
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login.resources
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.GestClasses.resources
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutClasses.resources
+C:\Users\UTILISATEUR\Documents\c_sharp\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ModifClasse.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutClasses.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutEleves.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutMedicament.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutVisite.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestClasses.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifClasse.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifEleve.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifMedicament.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestionEleve.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifVisite.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ListeEleve.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.listeVisite.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.listeMedicament.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\bin\Debug\GUI.exe.config
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.exe
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.ajoutClasses.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.ajoutEleves.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.ajoutMedicament.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.ajoutVisite.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.gestClasses.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.ListeEleve.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.listeMedicament.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.listeVisite.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.modifClasse.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.modifEleve.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.modifMedicament.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.gestionEleve.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.Login.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.modifVisite.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\bin\Debug\GUI.exe
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\bin\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\bin\Debug\BLL.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\bin\Debug\DAL.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\bin\Debug\BLL.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\bin\Debug\DAL.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.Synthese.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Sans import\GUI\obj\x86\Debug\GUI.SauvegardeBDD.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\bin\Debug\GUI.exe
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\bin\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\bin\Debug\BLL.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\bin\Debug\DAL.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\bin\Debug\BLL.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\bin\Debug\DAL.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.ajoutClasses.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.ajoutEleves.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.ajoutMedicament.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.ajoutVisite.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.gestClasses.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.ListeEleve.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.listeMedicament.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.listeVisite.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.modifClasse.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.modifEleve.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.modifMedicament.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.gestionEleve.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.Login.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.modifVisite.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.SauvegardeBDD.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.Synthese.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\Gestion Infirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\GUI.exe
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\BLL.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\DAL.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\BLL.pdb
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\DAL.pdb
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutClasses.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutEleves.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutMedicament.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutVisite.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestClasses.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ListeEleve.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.listeMedicament.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.listeVisite.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifClasse.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifEleve.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifMedicament.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestionEleve.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifVisite.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.SauvegardeBDD.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Synthese.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie-master\gestion_infirmerie-master\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\bin\Debug\GUI.exe
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\bin\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\bin\Debug\BLL.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\bin\Debug\DAL.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\bin\Debug\BLL.pdb
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\bin\Debug\DAL.pdb
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutClasses.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutEleves.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutMedicament.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutVisite.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestClasses.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ListeEleve.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.listeMedicament.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.listeVisite.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifClasse.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifEleve.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifMedicament.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestionEleve.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifVisite.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.SauvegardeBDD.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Synthese.resources
+C:\Users\etudiant-bts\Documents\gestion_infirmerie_v3\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\bin\Debug\GUI.exe
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\bin\Debug\GUI.pdb
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\bin\Debug\BLL.dll
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\bin\Debug\BO.dll
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\bin\Debug\DAL.dll
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\bin\Debug\BLL.pdb
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\bin\Debug\BO.pdb
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\bin\Debug\DAL.pdb
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutClasses.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutEleves.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutMedicament.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ajoutVisite.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestClasses.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ListeEleve.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.listeMedicament.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.listeVisite.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifClasse.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifEleve.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifMedicament.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.gestionEleve.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Main.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.modifVisite.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.SauvegardeBDD.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Synthese.resources
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\etudiant-bts\Desktop\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.SauvegardeBDD.resources
+C:\Users\etudiant-bts\Documents\Visual Studio 2010\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Synthese.resources
